@@ -1,0 +1,31 @@
+
+body {
+    font: 20px ariel, sans serif;
+}
+
+.navbar {
+    background-color: rgb(70, 68, 68);
+       
+}
+
+.nav-link {
+    color: white;
+}
+
+.cardapio {
+    padding-top: 30px;
+    background-color:black;
+    color: white;
+}
+
+.feijoada {
+    padding-top: 30px;
+    background-color: black;
+    color:white;
+}
+
+.parceiros {
+    padding-top: 30px;
+    background-color:black;
+    color: white;
+}
